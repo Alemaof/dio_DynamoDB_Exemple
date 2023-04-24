@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Lady Gaga"},
+  "SongTitle": {"S": "911"},
+  "AlbumTitle": {"S": "Chromatica"},
+  "SongYear": {"S": "2020"}
+}

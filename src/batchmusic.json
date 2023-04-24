@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Shakira"},
+                  "SongTitle": {"S": "Pies Descalzos, Sueños Blancos"},
+                  "AlbumTitle": {"S": "Pies Descalzos"},
+                  "SongYear": {"S": "1995"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Shakira"},
+                  "SongTitle": {"S": "Donde Estás Corazon?"},
+                  "AlbumTitle": {"S": "Pies Descalzos"},
+                  "SongYear": {"S": "1992"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Shakira"},
+                  "SongTitle": {"S": "Underneath Your Clothes"},
+                  "AlbumTitle": {"S": "Laundry Service"},
+                  "SongYear": {"S": "2001"}
+                }
+            }
+        }
+      ]
+}
